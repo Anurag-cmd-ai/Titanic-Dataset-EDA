@@ -32,3 +32,7 @@ To better understand passenger groupings, a new feature was created:
 *   **FamilySize:** By visualizing and merging the `SibSp` (siblings/spouses) and `Parch` (parents/children) columns, a unified `FamilySize` feature was generated (`SibSp` + `Parch` + 1).
 *   **FamilyType:** This new metric provides a clearer picture of whether a passenger was traveling alone or with a large family.Also it gave info that passenger with a medium size family had the highest survival rate.
 *   **Deck:** Classifying people surivival rate .People belonging to Deck B,C,D,E,F had the highest survival rate.
+
+
+##  Author
+Anurag Tiwari
