@@ -1,8 +1,8 @@
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
-This repository contains an Exploratory Data Analysis (EDA) of the classic Titanic training dataset (`train.csv`). The objective of this notebook is to inspect the data, handle missing values, and perform univariate analysis to uncover patterns and distributions among the passengers.
+Built an end-to-end Exploratory Data Analysis (EDA) on the classic Titanic dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn. Cleaned and prepared data by handling missing values (mean age imputation and cabin placeholder mapping) and uncovered key demographic insights—revealing that 38.4% of passengers survived, young adults aged 20–30 formed the largest age group, and women (particularly in first class) had significantly higher survival rates.
 
-## Overview
+## Objective
 Understanding the passenger demographics and ticket features is a crucial first step before building any predictive models for the Titanic dataset. This project focuses strictly on data wrangling and visualization, transforming raw data into actionable insights.
 
 ## Technologies & Libraries
