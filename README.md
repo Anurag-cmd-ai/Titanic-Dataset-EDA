@@ -5,7 +5,7 @@ Built an end-to-end Exploratory Data Analysis (EDA) on the classic Titanic datas
 ## Objective
 Understanding the passenger demographics and ticket features is a crucial first step before building any predictive models for the Titanic dataset. This project focuses strictly on data wrangling and visualization, transforming raw data into actionable insights.
 
-## Technologies & Libraries
+## Tech Stack
 This analysis was conducted using Python and the following data science libraries:
 *   **`pandas`**: For data ingestion, manipulation, and cleaning.
 *   **`numpy`**: For numerical and array operations.
