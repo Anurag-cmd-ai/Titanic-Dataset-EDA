@@ -1,16 +1,19 @@
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
-Built an end-to-end Exploratory Data Analysis (EDA) on the classic Titanic dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn. Cleaned and prepared data by handling missing values (mean age imputation and cabin placeholder mapping) and uncovered key demographic insights—revealing that 38.4% of passengers survived, young adults aged 20–30 formed the largest age group, and women (particularly in first class) had significantly higher survival rates.
+Built an end-to-end Exploratory Data Analysis (EDA) on the classic Titanic dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn. Cleaned and prepared data by handling missing values (mean age imputation) and uncovered key demographic insights—revealing that 38.4% of passengers survived, young adults aged 20–30 formed the largest age group, and women (particularly in first class) had significantly higher survival rates.
 
 ## Objective
 Understanding the passenger demographics and ticket features is a crucial first step before building any predictive models for the Titanic dataset. This project focuses strictly on data wrangling and visualization, transforming raw data into actionable insights.
 
 ## Tech Stack
 This analysis was conducted using Python and the following data science libraries:
-*   **`pandas`**: For data ingestion, manipulation, and cleaning.
-*   **`numpy`**: For numerical and array operations.
-*   **`matplotlib.pyplot`**: For structuring and plotting static visualizations.
-*   **`seaborn`**: For creating statistical, aesthetically pleasing plots (e.g., KDEs, count plots).
+| Tool | Used for |
+|---|---|
+| **Python** | Core language for the analysis |
+| `pandas` | Data ingestion, manipulation, and cleaning |
+| `numpy` | Numerical and array operations |
+| `matplotlib.pyplot` | Structuring and plotting static visualizations |
+| `seaborn` | Statistical, aesthetically pleasing plots (e.g., KDEs, count plots) |
 
 ## Data Inspection & Cleaning
 Proper data types and complete data are essential for accurate analysis. The following cleaning steps were applied:
